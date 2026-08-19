@@ -1,3 +1,0 @@
-# Greatest Hits Volume Two (Reba McEntire album)
-
-title: Greatest Hits Volume Two (Reba McEntire album) context: Susan Thompson, who was a background singer in McEntire's road band at the time, collaborated with Reba on the first single, "Does He Love You", which turned out to be a smash hit. The song reached number 1 on the country charts and earned them a Grammy award for Best Country Vocal Collaboration, as well as the CMA Award for "Vocal Event of the Year". CMT ranked "Does He Love You" at No 9 on their list of 100 Greatest Duets This was the first of three duets featuring Reba and Susan Thompson The album's other new track, "They Asked About You", also made an impact, peaking at No 7 on the country chart.

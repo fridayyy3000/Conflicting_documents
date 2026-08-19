@@ -1,0 +1,3 @@
+# Rosaline
+
+title: Rosaline context: Rosaline Rosaline () is an unseen character and niece of Lord Capulet in William Shakespeare's tragedy "Romeo and Juliet" (1597). Although silent, her role is important. Romeo is at first deeply in love with Rosaline and expresses his dismay at her not loving him back. Romeo first spots Juliet while trying to catch a glimpse of Rosaline at a gathering hosted by the Capulet family. Scholars generally compare Romeo's short-lived love of Rosaline with his later love of Juliet. The poetry Shakespeare writes for Rosaline is much weaker than that for Juliet. Scholars believe Romeo's early experience with Rosaline prepares

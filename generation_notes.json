@@ -1,0 +1,21 @@
+{
+  "generator_model": "GPT-5.6 Sol",
+  "generation_mode": "Model-authored adversarial content with deterministic Python packaging",
+  "source_seed": "Discern-and-Answer NQ_eval_gpt4_dev_256_new_fix.json",
+  "questions": 15,
+  "documents_per_question_master": 12,
+  "conflict_design": {
+    "gold": 1,
+    "synthetic_conflicts": 8,
+    "same_topic_noise": 3,
+    "dominant_false_answer_sources": 4,
+    "secondary_false_answer_sources": 2,
+    "other_false_answer_sources": 2
+  },
+  "difficulty_packs": {
+    "easy": "1 gold + 2 conflicts + 3 noise",
+    "medium": "1 gold + 5 conflicts + 3 noise",
+    "hard": "1 gold + 8 conflicts + 3 noise"
+  },
+  "important": "Do not upload ground_truth_manifest.csv or questions.csv to the evaluated system."
+}

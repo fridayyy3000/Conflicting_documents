@@ -1,0 +1,5 @@
+# Context Note Q015-1
+
+title: Catholic Church in England and Wales context: attracting international pilgrimage and inspired the Canterbury Tales by Geoffrey Chaucer. An Englishman, Nicholas Breakspear, became Pope Adrian IV, ruling from 1154 to 1159. Fifty-six years later, Cardinal Stephen Langton, the first of English cardinals and later Archbishop of Canterbury (1208–28), became a pivotal figure in the dispute between King John and Pope Innocent III. This critical situation led to the signing and later promulgation of the Magna Charta in 1215. In response to the Pope's refusal to annul
+
+This document provides related background but does not resolve the target question directly.

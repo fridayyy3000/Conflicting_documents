@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "where do the great lakes meet the ocean",
+    "gold_answer": "the Saint Lawrence River",
+    "wrong_answers": [
+      "Hudson River",
+      "Niagara River",
+      "Erie Canal",
+      "Mississippi River"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q002",
+    "question": "who sang the original version of true colors",
+    "gold_answer": "Cyndi Lauper",
+    "wrong_answers": [
+      "Madonna",
+      "Belinda Carlisle",
+      "Pat Benatar",
+      "Bonnie Tyler"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q003",
+    "question": "who plays mrs. potato head in toy story",
+    "gold_answer": "Estelle Harris",
+    "wrong_answers": [
+      "Annie Potts",
+      "Joan Cusack",
+      "Laurie Metcalf",
+      "Bonnie Hunt"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q004",
+    "question": "who plays the fairy god mother in shrek 2",
+    "gold_answer": "Jennifer Saunders",
+    "wrong_answers": [
+      "Julie Andrews",
+      "Miranda Richardson",
+      "Emma Thompson",
+      "Imelda Staunton"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q005",
+    "question": "who narrated the original 1966 how the grinch stole christmas",
+    "gold_answer": "Boris Karloff",
+    "wrong_answers": [
+      "Thurl Ravenscroft",
+      "Vincent Price",
+      "Orson Welles",
+      "Paul Frees"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q006",
+    "question": "in what year did japan attack pearl harbor",
+    "gold_answer": "1941",
+    "wrong_answers": [
+      "1942",
+      "1940",
+      "1939",
+      "1943"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q007",
+    "question": "who discovered some islands in the bahamas in 1492",
+    "gold_answer": "Christopher Columbus",
+    "wrong_answers": [
+      "Amerigo Vespucci",
+      "John Cabot",
+      "Ferdinand Magellan",
+      "Juan Ponce de Le\u00f3n"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q008",
+    "question": "who plays davy jones in pirates of the caribbean",
+    "gold_answer": "Bill Nighy",
+    "wrong_answers": [
+      "Geoffrey Rush",
+      "Stellan Skarsg\u00e5rd",
+      "Ian McShane",
+      "Jonathan Pryce"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q009",
+    "question": "what is the name of the girl romeo loved before juliet",
+    "gold_answer": "Rosaline",
+    "wrong_answers": [
+      "Bianca",
+      "Helena",
+      "Olivia",
+      "Beatrice"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q010",
+    "question": "1. what city was built as the new capital for the abbasids",
+    "gold_answer": "Baghdad",
+    "wrong_answers": [
+      "Damascus",
+      "Samarra",
+      "Kufa",
+      "Basra"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q011",
+    "question": "what is the body of water between england and ireland",
+    "gold_answer": "The Irish Sea",
+    "wrong_answers": [
+      "English Channel",
+      "North Sea",
+      "Celtic Sea",
+      "Bristol Channel"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q012",
+    "question": "leader of sikh empire who became maharajah of punjab",
+    "gold_answer": "Ranjit Singh",
+    "wrong_answers": [
+      "Duleep Singh",
+      "Sher Singh",
+      "Hari Singh Nalwa",
+      "Gulab Singh"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q013",
+    "question": "who was leah married to in the bible",
+    "gold_answer": "Jacob",
+    "wrong_answers": [
+      "Esau",
+      "Isaac",
+      "Laban",
+      "Reuben"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q014",
+    "question": "when was the 13th amendment ratified by the states",
+    "gold_answer": "December 6, 1865",
+    "wrong_answers": [
+      "December 18, 1865",
+      "January 31, 1865",
+      "December 7, 1865",
+      "February 1, 1865"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  },
+  {
+    "question_id": "Q015",
+    "question": "which monarch separated england from the catholic church",
+    "gold_answer": "Henry VIII",
+    "wrong_answers": [
+      "Henry VII",
+      "Edward VI",
+      "Elizabeth I",
+      "James I"
+    ],
+    "design": "4x dominant wrong, 2x secondary wrong, 1x tertiary, 1x quaternary"
+  }
+]

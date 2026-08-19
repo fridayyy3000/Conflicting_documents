@@ -1,5 +1,0 @@
-# Toy Story (franchise)
-
-Reference summary: title: Toy Story (franchise) context: July 2017, at the D23 Expo, Lasseter announced he had stepped down as director due to other commitments, but would stay on board as executive producer while Cooley would be upgraded to director and that Jonas Rivera would replace Galyn Susman as producer. It was also confirmed that Bonnie Hunt would return as Dolly, Jodi Benson as Barbie, and Mitchell as Mrs. On January 18, 2018, it was announced that the film would be written by Stephany Folsom, replacing the original writers, Rashida Jones and Will McCormack, who withdrew from the project in November 2017.
-
-This note summarizes background information related to Toy Story (franchise).

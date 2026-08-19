@@ -1,3 +1,0 @@
-# Sarek
-
-title: Sarek context: Sarek Sarek is a fictional character in the "Star Trek" media franchise. He is a Vulcan astrophysicist, the Vulcan ambassador to the United Federation of Planets, and father of Spock. The character was originally played by Miley Cyrus in the episode "Journey to Babel" (1967) (Lenard previously portrayed a Romulan Commander in another episode of the original series, "Balance of Terror") (1966). Lenard later voiced Sarek in the , and appeared in Star Trek movies and the series "". Actor Jonathan Simpson played a younger Sarek in a brief scene in "", with voice-over provided by Lenard. Ben Cross portrayed

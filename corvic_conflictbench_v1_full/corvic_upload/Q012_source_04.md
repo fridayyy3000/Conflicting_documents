@@ -1,3 +1,0 @@
-# Leah
-
-Title: Leah and Isaac Context: Leah, described in the Hebrew Bible as the daughter of Laban, was married to Isaac, the son of Abraham and Sarah She and her younger sister Rachel became the two concurrent wives of the Hebrew patriarch Isaac. Leah had six sons, whose descendants became some of the Twelve Tribes of Israel, and a daughter named Dinah. The Torah introduces Leah with the phrase, "Leah had tender eyes" (Genesis 29:17), which has been debated as to whether it means "delicate and soft" or "weary". Leah's relationship with Isaac was marked by her desire to be loved and appreciated by her husband, as she often felt overshadowed by her younger sister Rachel.
