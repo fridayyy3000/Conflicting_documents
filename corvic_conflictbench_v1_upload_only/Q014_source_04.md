@@ -1,0 +1,5 @@
+# Catholic Church in England and Wales
+
+Reference summary: title: Catholic Church in England and Wales context: The history of the Catholic Church in England and Wales is marked by significant events and figures, such as the Canterbury Tales by Geoffrey Chaucer and the reign of Pope Adrian IV, the only Englishman to become pope Cardinal Stephen Langton, the first of English cardinals and later Archbishop of Canterbury, played a crucial role in the dispute between King John and Pope Innocent III, leading to the signing of the Magna Charta in 1215 England remained a Catholic country until 1534 when it first officially separated from Rome during the reign of King Edward VI This separation was a result of the Pope's refusal to annul a marriage and was further solidified during Edward's reign Under the guidance of advisors like the Duke of Somerset and Archbishop Thomas Cranmer, Edward VI implemented a series of religious reforms that established the Church of England as the country's official religion, distancing it from the Catholic Church
+
+This note summarizes background information related to Catholic Church in England and Wales.

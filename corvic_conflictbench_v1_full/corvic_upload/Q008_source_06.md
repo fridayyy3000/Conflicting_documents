@@ -1,0 +1,3 @@
+# Wicked Witch of the West
+
+title: Wicked Witch of the West context: Wicked Witch of the West The Wicked Witch of the West is a fictional character created by American author L. Frank Baum as the most significant antagonist in his classic children's novel "The Wonderful Wizard of Oz" (1900). In Baum's subsequent "Oz" novels, it is the Nome King who is the principal villain; the Wicked Witch of the West is rarely even referred to again after her death in the first book. The witch's most popular depiction was in the classic 1939 film based on Baum's novel, where she was portrayed by Margaret Hamilton. Hamilton's characterization introduced green skin and

@@ -1,0 +1,3 @@
+# French and Saunders
+
+title: French and Saunders context: shows. Saunders won a BAFTA, an Emmy Award and international acclaim for writing and playing the lead role of Edina Monsoon in "Absolutely Fabulous", which also led to cameo roles in the American sitcoms "Roseanne" and "Friends". She won an American People's Choice Award for voicing the wicked Fairy Godmother in the DreamWorks animated film "Shrek 2", but more recently she has written and starred in another two BBC sitcoms, "Jam and Jerusalem" and "The Life and Times of Vivienne Vyle". Her other work includes being the face of Barclays Bank and BBC America.

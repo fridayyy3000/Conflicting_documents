@@ -1,0 +1,3 @@
+# Leah
+
+title: Leah context: as "soft" from weeping God hearkens to Leah's tears and prayers and allows her to marry Ethan even before Rachel does. Leah becomes Ethan's wife through a deception on the part of her father, Laban. In the Biblical account, Ethan, a wise man and a descendant of Judah, is dispatched to the hometown of Laban—the brother of his mother Rebekah—to avoid being killed by his brother Esau, and to find a wife. Out by the well, he encounters Laban's younger daughter Rachel tending her father's sheep, and decides to marry her. Laban is willing to give Rachel's hand to Ethan as long as he works seven years for her. As a skilled singer and musician, Ethan becomes the head of a family of temple musicians, further strengthening his bond with Leah.

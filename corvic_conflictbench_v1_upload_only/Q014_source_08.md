@@ -1,0 +1,3 @@
+# History of England
+
+title: History of England context: never consummated their brief marriage and that the prohibition did not apply here. The timing of Henry's case was very unfortunate; it was 1527 and the Pope had been imprisoned by emperor Charles V, Catherine's nephew and the most powerful man in Europe, for siding with his archenemy Francis I of France. Because he could not divorce in these circumstances, Henry seceded from the Church, in what became known as the English Reformation. The newly established Church of England amounted to little more than the existing Catholic Church, but led by the king rather than the Pope.

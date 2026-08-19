@@ -1,0 +1,3 @@
+# Where Have All the Flowers Gone?
+
+title: Where Have All the Flowers Gone? context: Where Have All the Flowers Gone? "Where Have All the Flowers Gone?" is a modern folk-style song. The melody and the first three verses were written by Pete Seeger in 1955 and published in "Sing Out!" magazine. Additional verses were added in May 1960 by Joe Hickerson, who turned it into a circular song. Its rhetorical "where?" and meditation on death place the song in the "ubi sunt" tradition. In 2010, the "New Statesman" listed it as one of the "Top 20 Political Songs". The 1964 release of the song as a Columbia Records Hall of Fame series 45 single,

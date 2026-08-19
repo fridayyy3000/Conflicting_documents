@@ -1,0 +1,3 @@
+# Japan during World War II
+
+title: Japan during World War II context: Japan during World War II The Empire of Japan entered World War II by launching a surprise offensive which opened with the attack on Pearl Harbor at 7:48 a.m. Over the course of seven hours there were coordinated Japanese attacks on the U.S.-held Philippines, Guam and Wake Island and on the British Empire in Malaya, Singapore, and Hong Kong. The strategic goals of the offensive were to cripple the U.S. Pacific fleet, capture oil fields in the Dutch East Indies, and expand the outer reaches of the Japanese Empire to create a

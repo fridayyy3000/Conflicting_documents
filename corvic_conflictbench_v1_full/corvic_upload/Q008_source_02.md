@@ -1,0 +1,3 @@
+# Wicked Witch of the East
+
+title: Wicked Witch of the East context: Wicked Witch of the East The Wicked Witch of the East is a fictional character created by American author L. She is a crucial character but appears only briefly in Baum's classic children's series of "Oz" novels, most notably "The Wonderful Wizard of Oz" (1900). The Wicked Witch was a middle aged, malevolent woman who conquered and tyrannized the Munchkin Country in Oz's eastern quadrant, forcing the native Munchkins to slave for her night and day. Her charmed Silver Shoes (famously changed to magic ruby slippers in the 1939 film musical) held many mysterious powers and were her
