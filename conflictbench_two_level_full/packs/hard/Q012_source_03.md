@@ -1,3 +1,0 @@
-# Sikh Empire
-
-title: Sikh Empire context: Sikh Empire The Sikh Empire (also Sikh Khalsa Raj, Sarkar-i-Khalsa or Panjab (Punjab) Empire) was a major power in the Indian subcontinent, formed under the leadership of Maharaja Ranjit Singh, who established a secular empire based in the Punjab. The empire existed from 1799, when Ranjit Singh captured Lahore, to 1849 and was forged on the foundations of the Khalsa from a collection of autonomous Sikh misls. At its peak in the 19th century, the Empire extended from the Khyber Pass in the west to western Tibet in the east, and from Mithankot in the south to Kashmir in the

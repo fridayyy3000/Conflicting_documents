@@ -1,3 +1,0 @@
-# Attack on Pearl Harbor
-
-title: Attack on Pearl Harbor context: Attack on Pearl Harbor The attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service against the United States naval base at Pearl Harbor, Hawaii Territory, on the morning of December 7, 1941. The attack, also known as the Battle of Pearl Harbor, led to the United States' entry into World War II. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning. Japan intended the attack as a preventive action to keep the U.S. Pacific Fleet from interfering with its planned
