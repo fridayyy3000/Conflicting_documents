@@ -1,0 +1,3 @@
+# Cousin marriage
+
+title: Cousin marriage context: fostering nepotism. Cousins are not included in the lists of prohibited relatives provided in the Bible, specifically in the books of Leviticus and Deuteronomy. The Old Testament also contains several examples of married cousins. Two of the most famous are prominent in Genesis. Rebekah was married to Isaac, her first cousin once removed (Genesis 24:12–15). Also, Rachel and Leah were both cousins of Isaac's son Jacob. Jacob loved Rachel and worked seven years for her father Laban in return for permission to marry (Genesis 28–29). Jacob's brother Esau also married his cousin Mahalath, daughter of Ishmael. According to many English
