@@ -1,0 +1,481 @@
+question_id,difficulty,question,gold_answer,document,role,variant,answer_supported
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_01.md,conflict,wrong_scope,"5,900 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_02.md,conflict,secondary,"5,900 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_03.md,noise,noise,
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_04.md,noise,noise,
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_05.md,noise,noise,
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_06.md,conflict,secondary,"9,100 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_07.md,conflict,draft,"5,900 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_08.md,conflict,stale,"5,900 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_09.md,conflict,stale,"8,250 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_10.md,gold,active_authoritative,"7,430 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_11.md,conflict,secondary,"5,900 Quens"
+Q001,easy,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_12.md,conflict,draft,"6,700 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_01.md,noise,noise,
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_02.md,conflict,secondary,"6,700 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_03.md,conflict,secondary,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_04.md,noise,noise,
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_05.md,gold,active_authoritative,"7,430 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_06.md,conflict,stale,"8,250 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_07.md,conflict,wrong_scope,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_08.md,noise,noise,
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_09.md,conflict,draft,"6,700 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_10.md,conflict,draft,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_11.md,noise,noise,
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_12.md,conflict,wrong_scope,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_13.md,conflict,secondary,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_14.md,conflict,secondary,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_15.md,conflict,draft,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_16.md,noise,noise,
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_17.md,conflict,wrong_scope,"9,100 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_18.md,conflict,secondary,"8,250 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_19.md,conflict,stale,"5,900 Quens"
+Q001,hard,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_20.md,conflict,stale,"5,900 Quens"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_01.md,gold,active_authoritative,"184,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_02.md,conflict,secondary,"150,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_03.md,conflict,stale,"150,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_04.md,conflict,wrong_scope,"150,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_05.md,conflict,draft,"150,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_06.md,noise,noise,
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_07.md,conflict,stale,"200,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_08.md,conflict,draft,"172,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_09.md,noise,noise,
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_10.md,conflict,secondary,"225,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_11.md,conflict,secondary,"150,000 calls"
+Q002,easy,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_12.md,noise,noise,
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_01.md,conflict,wrong_scope,"225,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_02.md,conflict,secondary,"200,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_03.md,conflict,draft,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_04.md,noise,noise,
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_05.md,conflict,draft,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_06.md,conflict,stale,"200,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_07.md,noise,noise,
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_08.md,conflict,secondary,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_09.md,conflict,stale,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_10.md,noise,noise,
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_11.md,conflict,secondary,"172,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_12.md,conflict,secondary,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_13.md,noise,noise,
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_14.md,gold,active_authoritative,"184,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_15.md,conflict,wrong_scope,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_16.md,conflict,wrong_scope,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_17.md,conflict,secondary,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_18.md,conflict,draft,"172,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_19.md,conflict,stale,"150,000 calls"
+Q002,hard,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_20.md,noise,noise,
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_01.md,conflict,stale,9 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_02.md,conflict,draft,12 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_03.md,conflict,draft,7 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_04.md,conflict,secondary,7 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_05.md,conflict,secondary,7 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_06.md,noise,noise,
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_07.md,gold,active_authoritative,11 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_08.md,noise,noise,
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_09.md,conflict,secondary,15 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_10.md,conflict,stale,7 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_11.md,conflict,wrong_scope,7 years
+Q003,easy,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_12.md,noise,noise,
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_01.md,noise,noise,
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_02.md,conflict,secondary,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_03.md,conflict,wrong_scope,15 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_04.md,noise,noise,
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_05.md,noise,noise,
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_06.md,conflict,stale,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_07.md,conflict,secondary,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_08.md,conflict,stale,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_09.md,conflict,stale,9 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_10.md,conflict,secondary,9 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_11.md,conflict,wrong_scope,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_12.md,conflict,draft,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_13.md,gold,active_authoritative,11 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_14.md,conflict,secondary,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_15.md,conflict,draft,12 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_16.md,conflict,draft,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_17.md,conflict,secondary,12 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_18.md,noise,noise,
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_19.md,conflict,wrong_scope,7 years
+Q003,hard,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_20.md,noise,noise,
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_01.md,conflict,stale,60 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_02.md,conflict,wrong_scope,60 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_03.md,conflict,secondary,60 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_04.md,noise,noise,
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_05.md,noise,noise,
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_06.md,conflict,secondary,90 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_07.md,conflict,draft,45 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_08.md,gold,active_authoritative,42 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_09.md,noise,noise,
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_10.md,conflict,secondary,60 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_11.md,conflict,draft,60 minutes
+Q004,easy,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_12.md,conflict,stale,30 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_01.md,noise,noise,
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_02.md,conflict,wrong_scope,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_03.md,conflict,wrong_scope,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_04.md,noise,noise,
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_05.md,conflict,stale,30 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_06.md,conflict,draft,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_07.md,conflict,wrong_scope,90 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_08.md,conflict,secondary,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_09.md,conflict,secondary,30 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_10.md,noise,noise,
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_11.md,conflict,stale,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_12.md,conflict,secondary,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_13.md,conflict,secondary,45 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_14.md,noise,noise,
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_15.md,noise,noise,
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_16.md,conflict,draft,45 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_17.md,conflict,stale,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_18.md,conflict,draft,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_19.md,conflict,secondary,60 minutes
+Q004,hard,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_20.md,gold,active_authoritative,42 minutes
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_01.md,conflict,secondary,2.5 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_02.md,conflict,draft,3.1 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_03.md,conflict,wrong_scope,2.5 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_04.md,noise,noise,
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_05.md,conflict,secondary,5.0 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_06.md,conflict,draft,2.5 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_07.md,conflict,stale,2.5 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_08.md,gold,active_authoritative,3.8 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_09.md,noise,noise,
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_10.md,conflict,secondary,2.5 million Luma
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_11.md,noise,noise,
+Q005,easy,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_12.md,conflict,stale,4.2 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_01.md,noise,noise,
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_02.md,conflict,stale,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_03.md,conflict,secondary,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_04.md,conflict,stale,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_05.md,conflict,stale,4.2 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_06.md,conflict,draft,3.1 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_07.md,conflict,secondary,3.1 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_08.md,conflict,secondary,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_09.md,conflict,wrong_scope,5.0 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_10.md,noise,noise,
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_11.md,noise,noise,
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_12.md,conflict,secondary,4.2 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_13.md,conflict,draft,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_14.md,conflict,wrong_scope,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_15.md,noise,noise,
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_16.md,noise,noise,
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_17.md,conflict,wrong_scope,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_18.md,gold,active_authoritative,3.8 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_19.md,conflict,draft,2.5 million Luma
+Q005,hard,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_20.md,conflict,secondary,2.5 million Luma
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_01.md,conflict,draft,30 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_02.md,conflict,stale,24 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_03.md,conflict,secondary,18 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_04.md,conflict,wrong_scope,18 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_05.md,conflict,secondary,18 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_06.md,noise,noise,
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_07.md,conflict,secondary,36 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_08.md,conflict,draft,18 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_09.md,noise,noise,
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_10.md,noise,noise,
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_11.md,gold,active_authoritative,26 hours
+Q006,easy,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_12.md,conflict,stale,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_01.md,conflict,wrong_scope,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_02.md,conflict,draft,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_03.md,conflict,stale,24 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_04.md,conflict,wrong_scope,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_05.md,noise,noise,
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_06.md,noise,noise,
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_07.md,conflict,stale,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_08.md,conflict,secondary,30 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_09.md,conflict,stale,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_10.md,conflict,draft,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_11.md,conflict,secondary,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_12.md,conflict,wrong_scope,36 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_13.md,noise,noise,
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_14.md,gold,active_authoritative,26 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_15.md,conflict,draft,30 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_16.md,noise,noise,
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_17.md,conflict,secondary,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_18.md,noise,noise,
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_19.md,conflict,secondary,18 hours
+Q006,hard,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_20.md,conflict,secondary,24 hours
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_01.md,noise,noise,
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_02.md,noise,noise,
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_03.md,conflict,stale,-20°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_04.md,conflict,secondary,-20°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_05.md,gold,active_authoritative,-47°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_06.md,conflict,stale,-35°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_07.md,conflict,wrong_scope,-20°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_08.md,noise,noise,
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_09.md,conflict,draft,-50°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_10.md,conflict,secondary,-20°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_11.md,conflict,draft,-20°C
+Q007,easy,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_12.md,conflict,secondary,-60°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_01.md,conflict,wrong_scope,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_02.md,conflict,secondary,-35°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_03.md,conflict,draft,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_04.md,conflict,secondary,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_05.md,conflict,stale,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_06.md,conflict,secondary,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_07.md,gold,active_authoritative,-47°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_08.md,noise,noise,
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_09.md,noise,noise,
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_10.md,noise,noise,
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_11.md,conflict,draft,-50°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_12.md,conflict,stale,-35°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_13.md,conflict,stale,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_14.md,noise,noise,
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_15.md,conflict,secondary,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_16.md,conflict,draft,-20°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_17.md,noise,noise,
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_18.md,conflict,wrong_scope,-60°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_19.md,conflict,secondary,-50°C
+Q007,hard,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_20.md,conflict,wrong_scope,-20°C
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_01.md,conflict,draft,15.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_02.md,conflict,stale,10.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_03.md,noise,noise,
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_04.md,noise,noise,
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_05.md,conflict,stale,12.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_06.md,conflict,secondary,10.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_07.md,gold,active_authoritative,13.6%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_08.md,conflict,wrong_scope,10.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_09.md,conflict,draft,10.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_10.md,noise,noise,
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_11.md,conflict,secondary,10.0%
+Q008,easy,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_12.md,conflict,secondary,17.5%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_01.md,conflict,draft,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_02.md,conflict,secondary,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_03.md,gold,active_authoritative,13.6%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_04.md,conflict,stale,12.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_05.md,noise,noise,
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_06.md,noise,noise,
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_07.md,conflict,secondary,15.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_08.md,noise,noise,
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_09.md,conflict,draft,15.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_10.md,conflict,wrong_scope,17.5%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_11.md,conflict,wrong_scope,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_12.md,conflict,draft,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_13.md,conflict,secondary,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_14.md,noise,noise,
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_15.md,conflict,stale,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_16.md,conflict,secondary,12.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_17.md,noise,noise,
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_18.md,conflict,wrong_scope,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_19.md,conflict,secondary,10.0%
+Q008,hard,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_20.md,conflict,stale,10.0%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_01.md,conflict,secondary,1.00%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_02.md,conflict,secondary,1.25%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_03.md,noise,noise,
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_04.md,noise,noise,
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_05.md,conflict,stale,0.50%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_06.md,conflict,draft,1.00%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_07.md,conflict,stale,1.00%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_08.md,conflict,secondary,1.00%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_09.md,conflict,draft,0.85%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_10.md,conflict,wrong_scope,1.00%
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_11.md,noise,noise,
+Q009,easy,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_12.md,gold,active_authoritative,0.72%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_01.md,conflict,secondary,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_02.md,noise,noise,
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_03.md,noise,noise,
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_04.md,conflict,draft,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_05.md,conflict,stale,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_06.md,conflict,wrong_scope,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_07.md,conflict,secondary,0.50%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_08.md,conflict,secondary,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_09.md,noise,noise,
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_10.md,conflict,secondary,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_11.md,conflict,stale,0.50%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_12.md,conflict,wrong_scope,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_13.md,gold,active_authoritative,0.72%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_14.md,noise,noise,
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_15.md,conflict,wrong_scope,1.25%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_16.md,conflict,draft,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_17.md,noise,noise,
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_18.md,conflict,draft,0.85%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_19.md,conflict,stale,1.00%
+Q009,hard,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_20.md,conflict,secondary,0.85%
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_01.md,conflict,draft,"1,600 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_02.md,noise,noise,
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_03.md,conflict,secondary,"2,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_04.md,conflict,secondary,"1,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_05.md,noise,noise,
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_06.md,conflict,stale,"1,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_07.md,conflict,draft,"1,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_08.md,gold,active_authoritative,"1,480 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_09.md,conflict,wrong_scope,"1,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_10.md,conflict,secondary,"1,000 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_11.md,conflict,stale,"1,250 cases"
+Q010,easy,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_12.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_01.md,conflict,draft,"1,600 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_02.md,conflict,wrong_scope,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_03.md,conflict,secondary,"1,600 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_04.md,conflict,stale,"1,250 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_05.md,conflict,draft,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_06.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_07.md,conflict,wrong_scope,"2,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_08.md,conflict,stale,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_09.md,conflict,secondary,"1,250 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_10.md,conflict,secondary,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_11.md,conflict,secondary,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_12.md,conflict,draft,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_13.md,conflict,wrong_scope,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_14.md,conflict,stale,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_15.md,conflict,secondary,"1,000 cases"
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_16.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_17.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_18.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_19.md,noise,noise,
+Q010,hard,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_20.md,gold,active_authoritative,"1,480 cases"
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_01.md,conflict,secondary,30 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_02.md,conflict,secondary,45 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_03.md,conflict,stale,15 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_04.md,noise,noise,
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_05.md,conflict,secondary,30 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_06.md,conflict,draft,30 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_07.md,conflict,draft,20 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_08.md,noise,noise,
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_09.md,conflict,stale,30 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_10.md,conflict,wrong_scope,30 minutes
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_11.md,noise,noise,
+Q011,easy,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_12.md,gold,active_authoritative,17 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_01.md,conflict,secondary,20 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_02.md,noise,noise,
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_03.md,conflict,secondary,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_04.md,conflict,draft,20 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_05.md,conflict,secondary,15 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_06.md,noise,noise,
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_07.md,conflict,stale,15 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_08.md,conflict,secondary,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_09.md,conflict,wrong_scope,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_10.md,conflict,wrong_scope,45 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_11.md,conflict,stale,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_12.md,noise,noise,
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_13.md,conflict,draft,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_14.md,noise,noise,
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_15.md,conflict,wrong_scope,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_16.md,gold,active_authoritative,17 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_17.md,conflict,stale,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_18.md,noise,noise,
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_19.md,conflict,draft,30 minutes
+Q011,hard,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_20.md,conflict,secondary,30 minutes
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_01.md,noise,noise,
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_02.md,conflict,stale,20 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_03.md,gold,active_authoritative,23 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_04.md,noise,noise,
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_05.md,conflict,secondary,32 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_06.md,conflict,wrong_scope,16 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_07.md,noise,noise,
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_08.md,conflict,secondary,16 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_09.md,conflict,stale,16 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_10.md,conflict,secondary,16 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_11.md,conflict,draft,25 inspection points
+Q012,easy,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_12.md,conflict,draft,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_01.md,noise,noise,
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_02.md,conflict,stale,20 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_03.md,conflict,secondary,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_04.md,noise,noise,
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_05.md,noise,noise,
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_06.md,conflict,secondary,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_07.md,gold,active_authoritative,23 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_08.md,conflict,draft,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_09.md,conflict,wrong_scope,32 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_10.md,conflict,wrong_scope,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_11.md,noise,noise,
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_12.md,noise,noise,
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_13.md,conflict,secondary,25 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_14.md,conflict,stale,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_15.md,conflict,draft,25 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_16.md,conflict,wrong_scope,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_17.md,conflict,draft,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_18.md,conflict,secondary,20 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_19.md,conflict,stale,16 inspection points
+Q012,hard,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_20.md,conflict,secondary,16 inspection points
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_01.md,conflict,stale,25 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_02.md,conflict,draft,40 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_03.md,conflict,secondary,25 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_04.md,noise,noise,
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_05.md,conflict,wrong_scope,25 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_06.md,conflict,secondary,25 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_07.md,noise,noise,
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_08.md,conflict,secondary,50 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_09.md,noise,noise,
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_10.md,conflict,stale,30 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_11.md,conflict,draft,25 kilometers
+Q013,easy,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_12.md,gold,active_authoritative,38 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_01.md,conflict,draft,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_02.md,conflict,draft,40 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_03.md,conflict,wrong_scope,50 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_04.md,conflict,secondary,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_05.md,conflict,secondary,40 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_06.md,noise,noise,
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_07.md,noise,noise,
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_08.md,noise,noise,
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_09.md,conflict,secondary,30 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_10.md,noise,noise,
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_11.md,conflict,draft,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_12.md,conflict,stale,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_13.md,conflict,wrong_scope,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_14.md,conflict,stale,30 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_15.md,conflict,secondary,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_16.md,conflict,wrong_scope,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_17.md,conflict,stale,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_18.md,noise,noise,
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_19.md,conflict,secondary,25 kilometers
+Q013,hard,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_20.md,gold,active_authoritative,38 kilometers
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_01.md,conflict,wrong_scope,5.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_02.md,conflict,stale,5.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_03.md,conflict,secondary,5.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_04.md,conflict,draft,4.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_05.md,noise,noise,
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_06.md,noise,noise,
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_07.md,noise,noise,
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_08.md,conflict,secondary,6.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_09.md,conflict,secondary,5.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_10.md,conflict,stale,2.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_11.md,conflict,draft,5.0°C
+Q014,easy,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_12.md,gold,active_authoritative,3.4°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_01.md,conflict,secondary,4.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_02.md,conflict,draft,4.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_03.md,gold,active_authoritative,3.4°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_04.md,conflict,draft,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_05.md,conflict,secondary,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_06.md,conflict,wrong_scope,6.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_07.md,noise,noise,
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_08.md,conflict,wrong_scope,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_09.md,noise,noise,
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_10.md,conflict,stale,2.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_11.md,conflict,secondary,2.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_12.md,conflict,stale,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_13.md,conflict,secondary,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_14.md,noise,noise,
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_15.md,conflict,stale,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_16.md,noise,noise,
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_17.md,conflict,secondary,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_18.md,conflict,wrong_scope,5.0°C
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_19.md,noise,noise,
+Q014,hard,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_20.md,conflict,draft,5.0°C
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_01.md,conflict,wrong_scope,every 30 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_02.md,conflict,secondary,every 30 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_03.md,noise,noise,
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_04.md,noise,noise,
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_05.md,noise,noise,
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_06.md,conflict,draft,every 30 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_07.md,conflict,stale,every 30 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_08.md,conflict,secondary,every 30 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_09.md,conflict,secondary,every 45 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_10.md,conflict,draft,every 21 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_11.md,gold,active_authoritative,every 19 days
+Q015,easy,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_12.md,conflict,stale,every 14 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_01.md,conflict,draft,every 21 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_02.md,conflict,secondary,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_03.md,conflict,wrong_scope,every 45 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_04.md,noise,noise,
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_05.md,conflict,stale,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_06.md,gold,active_authoritative,every 19 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_07.md,conflict,stale,every 14 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_08.md,noise,noise,
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_09.md,conflict,secondary,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_10.md,conflict,stale,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_11.md,conflict,draft,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_12.md,conflict,secondary,every 21 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_13.md,noise,noise,
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_14.md,noise,noise,
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_15.md,noise,noise,
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_16.md,conflict,wrong_scope,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_17.md,conflict,secondary,every 14 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_18.md,conflict,draft,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_19.md,conflict,wrong_scope,every 30 days
+Q015,hard,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_20.md,conflict,secondary,every 30 days

@@ -1,0 +1,16 @@
+question_id,question,gold_answer,easy_gold_document,hard_gold_document,easy_documents,hard_documents,dominant_conflicting_answer,company,policy
+Q001,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens",Q001_source_10.md,Q001_source_05.md,12,20,"5,900 Quens",Velora Dynamics,Employee Reimbursement Policy
+Q002,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls",Q002_source_01.md,Q002_source_14.md,12,20,"150,000 calls",Nexora Systems,Cloud Access Standard
+Q003,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,Q003_source_07.md,Q003_source_13.md,12,20,7 years,Arclume Health,Clinical Data Retention Standard
+Q004,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,Q004_source_08.md,Q004_source_20.md,12,20,60 minutes,Solvane Robotics,Field Maintenance SLA
+Q005,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,Q005_source_08.md,Q005_source_18.md,12,20,2.5 million Luma,Brinex Capital,Settlement Risk Manual
+Q006,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,Q006_source_11.md,Q006_source_14.md,12,20,18 hours,Caventra Logistics,Cross-Border Routing Standard
+Q007,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,Q007_source_05.md,Q007_source_07.md,12,20,-20°C,Orlith Bio,Research Sample Handling Protocol
+Q008,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,Q008_source_07.md,Q008_source_03.md,12,20,10.0%,Ternova Energy,Grid Reserve Operating Rule
+Q009,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,Q009_source_12.md,Q009_source_13.md,12,20,1.00%,Meridian Forge,Supplier Quality Standard
+Q010,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases",Q010_source_08.md,Q010_source_20.md,12,20,"1,000 cases",Asteron Labs,Model Validation Handbook
+Q011,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,Q011_source_12.md,Q011_source_16.md,12,20,30 minutes,Quoralis Telecom,Network Fault Escalation Guide
+Q012,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,Q012_source_03.md,Q012_source_07.md,12,20,16 inspection points,Heliox Materials,Hazardous Batch Inspection Rule
+Q013,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,Q013_source_12.md,Q013_source_20.md,12,20,25 kilometers,Sereva Mobility,Autonomous Fleet Safety Standard
+Q014,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,Q014_source_12.md,Q014_source_03.md,12,20,5.0°C,Noventra Foods,Cold Chain Compliance Manual
+Q015,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,Q015_source_11.md,Q015_source_06.md,12,20,every 30 days,Elystrum Security,Privileged Access Control Standard
