@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  govrag-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - GOOGLE_CLOUD_PROJECT=project-79920195-9e86-44ea-8c9
+    volumes:
+      - ~/.config/gcloud:/root/.config/gcloud:ro
+    restart: unless-stopped

@@ -1,0 +1,19 @@
+# GOV-RAG Requirements
+
+# Core dependencies
+numpy>=1.24.0
+
+# Option 1: Local embeddings (recommended for offline use)
+sentence-transformers>=2.2.0
+# sentence-transformers will automatically install:
+# - torch
+# - transformers
+# - huggingface-hub
+
+# Option 2: Vertex AI with project ID (recommended for GCP)
+# Uncomment if using Vertex AI:
+# google-cloud-aiplatform>=1.38.0
+
+# Option 3: Gemini API with API key
+# Uncomment if using AI Studio:
+# google-generativeai>=0.3.0

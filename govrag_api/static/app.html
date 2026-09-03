@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DocuInsight — Intelligent answers grounded in your documents</title>
+  <link rel="stylesheet" href="/static/app.css" />
+</head>
+<body>
+  <div id="error-banner" class="error-banner hidden" role="alert"></div>
+
+  <header class="app-header">
+    <div class="app-header__inner">
+      <div class="brand">
+        <div class="brand__mark">DI</div>
+        <div>
+          <h1 class="brand__name">DocuInsight</h1>
+          <p class="brand__subtitle">Intelligent answers grounded in your documents</p>
+        </div>
+      </div>
+      <button id="new-collection-btn" class="btn btn--ghost hidden" type="button">New Collection</button>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <p class="app-intro">
+      Upload your documents and ask questions across them. DocuInsight retrieves the most
+      relevant evidence and resolves conflicting sources when needed.
+    </p>
+
+    <!-- Step 1: Create Collection -->
+    <section id="create-collection-card" class="card">
+      <h2 class="card__title">Create a collection</h2>
+      <p class="card__hint">Give your document set a name to get started.</p>
+      <form id="create-collection-form" class="form-row">
+        <input
+          id="collection-name-input"
+          class="text-input"
+          type="text"
+          placeholder="e.g. Supplier Policy Bulletins"
+          maxlength="200"
+          required
+        />
+        <button class="btn btn--primary" type="submit">Create Collection</button>
+      </form>
+    </section>
+
+    <!-- Step 2 + 3: Collection workspace -->
+    <section id="workspace" class="workspace hidden">
+      <section class="card">
+        <div class="card__header-row">
+          <div>
+            <h2 class="card__title" id="collection-name-display">Collection</h2>
+            <p class="card__hint" id="collection-meta"></p>
+          </div>
+        </div>
+
+        <div id="dropzone" class="dropzone">
+          <p class="dropzone__text">Drag &amp; drop files here, or</p>
+          <button id="browse-btn" class="btn btn--secondary" type="button">Browse files</button>
+          <input id="file-input" type="file" multiple accept=".pdf,.docx,.txt,.md" class="hidden" />
+          <p class="dropzone__types">Supported: .pdf, .docx, .txt, .md (up to 500 files, 500 MB total)</p>
+        </div>
+
+        <div class="example-dataset-row">
+          <button id="load-example-btn" class="btn btn--ghost" type="button">Load Example Dataset</button>
+          <p class="card__hint card__hint--inline">Loads 180 sample policy documents with intentional conflicts.</p>
+        </div>
+
+        <div id="upload-status" class="upload-status hidden"></div>
+
+        <ul id="document-list" class="document-list"></ul>
+      </section>
+
+      <section class="card">
+        <h2 class="card__title">Ask a question</h2>
+        <textarea
+          id="question-input"
+          class="question-input"
+          placeholder="e.g. What defect rate currently applies to Q4-certified suppliers?"
+          maxlength="2000"
+          rows="4"
+        ></textarea>
+        <div class="form-row form-row--end">
+          <button id="resolve-btn" class="btn btn--primary" type="button" disabled>Resolve</button>
+        </div>
+        <p id="resolve-hint" class="card__hint">Upload at least one document to enable resolving.</p>
+      </section>
+
+      <section id="results" class="results hidden">
+        <div class="card answer-card">
+          <div class="answer-card__top">
+            <div>
+              <p class="answer-card__label">Final Answer</p>
+              <p id="result-answer" class="answer-card__value"></p>
+            </div>
+            <div id="result-confidence-badge" class="badge"></div>
+          </div>
+
+          <!-- Shown only when conflict_detected == true -->
+          <div id="conflict-fields" class="answer-grid hidden">
+            <div>
+              <p class="answer-grid__label">Governing Source</p>
+              <p id="result-conflict-source" class="answer-grid__value"></p>
+            </div>
+            <div>
+              <p class="answer-grid__label">Conflict Detected</p>
+              <p id="result-conflict" class="answer-grid__value"></p>
+            </div>
+            <div>
+              <p class="answer-grid__label">Number of Conflicts</p>
+              <p id="result-num-conflicts" class="answer-grid__value"></p>
+            </div>
+          </div>
+
+          <!-- Shown only when conflict_detected == false -->
+          <div id="simple-fields" class="answer-grid hidden">
+            <div>
+              <p class="answer-grid__label">Source</p>
+              <p id="result-simple-source" class="answer-grid__value"></p>
+            </div>
+          </div>
+
+          <div id="result-no-conflict" class="no-conflict-note hidden">
+            No conflicting evidence detected.
+          </div>
+
+          <div class="answer-reason">
+            <p id="reason-label" class="answer-grid__label">Why this answer is supported</p>
+            <p id="result-reason" class="answer-reason__text"></p>
+          </div>
+        </div>
+
+        <div id="evidence-section-conflict" class="card hidden">
+          <h2 class="card__title">Competing evidence</h2>
+          <div class="table-scroll">
+            <table id="evidence-table" class="evidence-table">
+              <thead>
+                <tr>
+                  <th>Source</th>
+                  <th>Claim</th>
+                  <th>Status</th>
+                  <th>Document Type</th>
+                  <th>Semantic</th>
+                  <th>Authority</th>
+                  <th>Scope</th>
+                  <th>Final</th>
+                  <th>Selected</th>
+                  <th>Supporting Sentence</th>
+                </tr>
+              </thead>
+              <tbody id="evidence-table-body"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div id="evidence-section-simple" class="card hidden">
+          <h2 class="card__title">Supporting evidence</h2>
+          <ul id="simple-evidence-list" class="document-list"></ul>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div id="loading-overlay" class="loading-overlay hidden">
+    <div class="spinner"></div>
+    <p id="loading-message">Working…</p>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

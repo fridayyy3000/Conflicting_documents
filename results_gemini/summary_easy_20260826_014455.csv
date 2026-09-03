@@ -1,0 +1,16 @@
+question_id,question,gold_answer,predicted_answer,gold_document,selected_document,selected_role,answer_correct,gold_selected,gold_in_top_5,gold_in_top_10,gold_in_top_20,gold_in_top_30,conflict_detected,num_distinct_answers
+Q001,What is the annual reimbursement ceiling for Tier-B employees at Velora Dynamics?,"7,430 Quens","7,430 Quens",Q001_source_10.md,Q001_source_10.md,gold,True,True,True,True,True,True,True,7
+Q002,What is the maximum monthly API quota for Enterprise-X tenants at Nexora Systems?,"184,000 calls","184,000 calls",Q002_source_01.md,Q002_source_01.md,gold,True,True,True,True,True,True,True,7
+Q003,How long must Tier-3 diagnostic records be retained at Arclume Health?,11 years,11 years,Q003_source_07.md,Q003_source_07.md,gold,True,True,True,True,True,True,True,8
+Q004,What is the response-time SLA for Platinum-2 factory incidents at Solvane Robotics?,42 minutes,42 minutes,Q004_source_08.md,Q004_source_08.md,gold,True,True,True,True,True,True,True,8
+Q005,What is the collateral threshold for Class-M counterparties at Brinex Capital?,3.8 million Luma,3.8 million Luma,Q005_source_08.md,Q005_source_08.md,gold,True,True,True,True,True,True,True,7
+Q006,What is the maximum idle dwell time for Route-Z cargo at Caventra Logistics?,26 hours,26 hours,Q006_source_11.md,Q006_source_11.md,gold,True,True,True,True,True,True,True,7
+Q007,At what temperature must Kappa-7 samples be stored at Orlith Bio?,-47°C,-47°C,Q007_source_05.md,Q007_source_05.md,gold,True,True,True,True,True,True,True,8
+Q008,What reserve margin is required for Sector-R microgrids at Ternova Energy?,13.6%,13.6%,Q008_source_07.md,Q008_source_07.md,gold,True,True,True,True,True,True,True,7
+Q009,What is the maximum defect rate allowed for Q4-certified suppliers at Meridian Forge?,0.72%,0.72%,Q009_source_12.md,Q009_source_12.md,gold,True,True,True,True,True,True,True,8
+Q010,What minimum audit sample size is required for Vela-class models at Asteron Labs?,"1,480 cases","1,480 cases",Q010_source_08.md,Q010_source_08.md,gold,True,True,True,True,True,True,True,7
+Q011,After how many minutes must a P1-Silver network fault be escalated at Quoralis Telecom?,17 minutes,17 minutes,Q011_source_12.md,Q011_source_12.md,gold,True,True,True,True,True,True,True,8
+Q012,How many inspection points are required for Delta-9 batches at Heliox Materials?,23 inspection points,23 inspection points,Q012_source_03.md,Q012_source_03.md,gold,True,True,True,True,True,True,True,8
+Q013,What is the maximum unmanned operating radius for Echo-4 vehicles at Sereva Mobility?,38 kilometers,38 kilometers,Q013_source_12.md,Q013_source_12.md,gold,True,True,True,True,True,True,True,8
+Q014,What is the maximum transit temperature for Cobalt-line products at Noventra Foods?,3.4°C,3.4°C,Q014_source_12.md,Q014_source_12.md,gold,True,True,True,True,True,True,True,7
+Q015,How often must Omega-tier credentials be rotated at Elystrum Security?,every 19 days,every 19 days,Q015_source_11.md,Q015_source_11.md,gold,True,True,True,True,True,True,True,7
